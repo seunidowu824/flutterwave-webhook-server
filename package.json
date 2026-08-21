@@ -1,10 +1,21 @@
-Preview
-"name": "flutterwave-webhook-server",
-"version": "1.0.0",
-"main": "server 2.js",
-"scripts": {
-"start": "node \"server 2.js\'**'
-},
-"dependencies":
-"express":
-"^4.21.2"
+{
+
+  "name": "flutterwave-webhook-server",
+
+  "version": "1.0.0",
+
+  "main": "server 2.js",
+
+  "scripts": {
+
+    "start": "node \"server 2.js\""
+
+  },
+
+  "dependencies": {
+
+    "express": "^4.21.2"
+
+  }
+
+}
